@@ -7,6 +7,18 @@
       "imagen": "https://i.ibb.co/nwXjQzc/converse.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -32,6 +44,18 @@
       "imagen": "https://i.ibb.co/Wz0YfgX/brama.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Cuero, tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"Precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -57,6 +81,18 @@
       "imagen": "https://i.ibb.co/N9HkHPD/bota.jpg",
       "accesorios": "Cordones",
       "material": "Cuero",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -82,6 +118,18 @@
       "imagen": "https://i.ibb.co/K7tvF10/bota-alta.jpg",
       "accesorios": "Cordones",
       "material": "Cuero",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -107,6 +155,18 @@
       "imagen": "https://i.ibb.co/c3DMwjg/zapatilla2.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -132,6 +192,18 @@
       "imagen": "https://i.ibb.co/R7y9PYt/zapatilla1.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -157,6 +229,18 @@
       "imagen": "https://i.ibb.co/PTsC357/zapatilla3.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto, niño",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -182,6 +266,18 @@
       "imagen": "https://i.ibb.co/Q6yNNZ2/zapatilla4.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto, niño",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -207,6 +303,18 @@
       "imagen": "https://i.ibb.co/CBkmfnb/zapatilla5.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto, niño",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -232,6 +340,18 @@
       "imagen": "https://i.ibb.co/86LDTY8/zapatilla6.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto, niño",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -257,6 +377,18 @@
       "imagen": "https://i.ibb.co/86LDTY8/zapatilla6.jpg",
       "accesorios": "Llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -282,6 +414,18 @@
       "imagen": "https://i.ibb.co/LZ0dhkH/zapatilla8.jpg",
       "accesorios": "Cordones, Llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -307,6 +451,18 @@
       "imagen": "https://i.ibb.co/FW9BwXz/zapatilla9.jpg",
       "accesorios": "Cordones, Llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto, niño",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -332,6 +488,18 @@
       "imagen": "https://i.ibb.co/Zd4Z830/teni1.jpg",
       "accesorios": "Cordones, Llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto, niño",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -357,6 +525,18 @@
       "imagen": "https://i.ibb.co/tm9qxch/teni2.jpg",
       "accesorios": "Cordones, Llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -382,6 +562,18 @@
       "imagen": "https://i.ibb.co/pjNdzw9/teni3.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -407,6 +599,18 @@
       "imagen": "https://i.ibb.co/5hZTkk3/teni4.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"unisex",
+      "categoria":"niño",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -432,6 +636,18 @@
       "imagen": "https://i.ibb.co/6FzwTWz/sueco.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -457,6 +673,18 @@
       "imagen": "https://i.ibb.co/jvfJtfD/sueco1.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -482,6 +710,18 @@
       "imagen": "https://i.ibb.co/TR8Q0L3/sandalia.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"dama, niña",
+      "categoria":"adulto",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -507,6 +747,18 @@
       "imagen": "https://i.ibb.co/q5r1phD/mocacin1.jpg",
       "accesorios": "Cordones",
       "material": "Cuero",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Mauris sed magna eu diam vulputate malesuada. Vivamus non odio in velit aliquet consequat. Nullam ornare, libero vitae fermentum egestas",
       "comentarios": [
         {
@@ -532,6 +784,18 @@
       "imagen": "https://i.ibb.co/Mf7gLhQ/mocacin.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Tela y sintético",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -557,6 +821,18 @@
       "imagen": "https://i.ibb.co/Wz0YfgX/brama.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Cuero",
+      "genero":"caballero",
+      "categoria":"adulto",
+      "descuento":"promocion",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
@@ -581,6 +857,18 @@
       "imagen": "https://i.ibb.co/Wz0YfgX/brama.jpg",
       "accesorios": "Cordones, llavero",
       "material": "Cuero",
+      "genero":"dama",
+      "categoria":"adulto",
+      "descuento":"precio normal",
+      "tallas":[
+        {
+          "35":35,
+          "36":36,
+          "37":37,
+          "38":38,
+          "40":40
+        }
+      ],
       "Descripción": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo efficitur commodo.",
       "comentarios": [
         {
